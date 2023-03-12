@@ -7,4 +7,4 @@ If you need an icon open an issue and I'll try my best to accomodate your reques
 
 If you are looking for original colored icons [Dashboard Icons](https://github.com/walkxcode/dashboard-icons) have you covered.
 
-_NOTE_: I don't own the rights to any of these icons, I just made and compiled monochrome versions of them, credits to their original creators.
+*_NOTE_*: I don't own the rights to any of these icons, I just made and compiled monochrome versions of them, credits to their original creators.
