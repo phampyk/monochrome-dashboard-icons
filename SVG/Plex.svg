@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="plex-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 478.36">
+  <defs>
+    <style>
+      .f {
+        fill: #fff;
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <polygon id="b" data-name="polygon8" points="157.18 232.35 0 0 161.73 0 317.77 232.35 161.73 463.55 0 463.55 157.18 232.35"/>
+  <polygon id="c" data-name="polygon8" class="f" points="157.18 232.35 0 0 161.73 0 317.77 232.35 161.73 463.55 0 463.55 157.18 232.35"/>
+  <polygon id="d" data-name="polygon10" points="359.91 206.15 500 0 338.27 0 280.18 85.42 359.91 206.15"/>
+  <path id="e" data-name="path12" d="m280.18,379.27l27.33,37.59c26.2,41,60.36,61.5,100.23,61.5,42.14-1.14,71.75-37.59,83.14-51.25,0,0-20.5-18.22-46.7-48.97-35.31-41-82-116.17-83.14-119.59l-80.87,120.73Z"/>
+</svg>
