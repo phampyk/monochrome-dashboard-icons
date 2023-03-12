@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="svg19 copia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.87 112.49">
+  <defs>
+    <style>
+      .g {
+        fill: #676768;
+      }
+
+      .g, .h, .i, .j {
+        opacity: .5;
+      }
+
+      .h {
+        fill: #262626;
+      }
+
+      .k {
+        fill: #b4b4b5;
+        opacity: .25;
+      }
+
+      .i {
+        fill: #e5e5e5;
+      }
+
+      .j {
+        fill: #3c3c3c;
+      }
+    </style>
+  </defs>
+  <polygon id="b" data-name="polygon9" points="0 51.12 22.01 101.77 53.26 112.49 58.99 101.01 70.87 29.69 50.18 0 14.52 19.71 0 51.12"/>
+  <polygon class="h" points="14.52 19.71 0 51.12 22.01 101.77 18.48 40.16 14.52 19.71"/>
+  <polygon id="c" data-name="polygon11" class="k" points="18.48 40.16 53.26 112.49 58.99 101.01 70.87 29.69 48.86 16.21 18.48 40.16"/>
+  <polygon id="d" data-name="polygon13" class="i" points="50.18 0 48.86 16.21 70.87 29.69 50.18 0"/>
+  <polygon id="e" data-name="polygon15" class="g" points="14.52 19.71 18.48 40.16 48.86 16.21 50.18 0 14.52 19.71"/>
+  <polygon id="f" data-name="polygon17" class="j" points="53.26 112.49 18.48 40.16 22.01 101.77 53.26 112.49"/>
+</svg>
