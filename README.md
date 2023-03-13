@@ -10,4 +10,4 @@ If you are looking for original colored icons [Dashboard Icons](https://github.c
 *_NOTE_*: I don't own the rights to any of these icons, I just made and compiled monochrome versions of them, credits to their original creators.
 
 ## Icons
-<p align="center"><img src="SVG/Audiobookshelf.svg#gh-light-mode-only" height="50px" style="background-color: blue;">  <img src="SVG/Bazarr.svg" width="50px" style="color: blue;"></p>
+<p align="center"><img src="SVG/Audiobookshelf.svg" height="50px"> <img src="SVG/Bazarr.svg" width="50px"> <img src="SVG/Benotes.svg" height="50px"> <img src="SVG/Bitwarden.svg" height="50px"> <img src="SVG/Dozzle.svg" height="50px"> <img src="SVG/Freshrss.svg" height="50px"> <img src="SVG/Gotify.svg" height="50px"> <img src="SVG/Gotify2.svg" height="50px"> <img src="SVG/HomeAssistant.svg" height="50px"> <img src="SVG/Homepage.svg" height="50px"> </p>
