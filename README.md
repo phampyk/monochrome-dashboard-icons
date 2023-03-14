@@ -16,4 +16,4 @@ If you are looking for original colored icons [Dashboard Icons](https://github.c
 
 <p align="center"><img src="SVG/Radarr.svg" height="50px"> <img src="SVG/Readarr.svg" height="50px"> <img src="SVG/Slskd.svg" height="50px"> <img src="SVG/Snapdrop.svg" height="50px"> <img src="SVG/Sonarr.svg" height="50px"> <img src="SVG/Syncthing.svg" height="50px"> <img src="SVG/Synology.svg" height="50px"> <img src="SVG/Tandoor.svg" width="50px"> <img src="SVG/Tautulli.svg" height="50px"> <img src="SVG/Vaultwarden.svg" height="50px"> </p>
 
-<p align="center"><img src="SVG/YourSpotify.svg" height="50px"></p>
+<p align="center"><img src="SVG/YourSpotify.svg" height="50px"> <img src="SVG/Portainer.svg" height="50px"> <img src="SVG/Ferdium.svg" height="50px"></p>
